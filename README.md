@@ -1,5 +1,14 @@
-# Welcome to GitHub Desktop!
+# Welcome to My GitHub Space!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Hi 👋, I'm Greg Smith ##
+### A passionate frontend developer from Atlanta
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+- 🔭 I’m currently working on **Projects**
+
+- 🌱 I’m currently learning **Learning Frontend Dev with Udacity**
+
+- 📫 How to reach me **gsmitty1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
